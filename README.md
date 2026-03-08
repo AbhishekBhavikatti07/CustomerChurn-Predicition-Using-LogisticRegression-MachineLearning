@@ -8,6 +8,7 @@
 - <a href="#project-structure">📂 Project Structure</a>
 - <a href="#work-flow">🧠 Work Flow</a>
 - <a href="#model-used">🤖 Model used</a>
+- <a href="#screen-shorts">📸Screenshots</a>
 - <a href="#result">💡 Result</a>
 - <a href="#project-report">📄 Project Report</a>
 - <a href="#future-improvements">🚀 Future Improvements</a>
@@ -40,7 +41,7 @@ to predict churn using classification algorithms.
 
 ---
 
-<h2><a class="anchor" id="project-strucutre">📂 Project Structure</a></h2>
+<h2><a class="anchor" id="project-structure">📂 Project Structure</a></h2>
 ```
 Customer_Churn_Project/
 │
@@ -57,7 +58,7 @@ Customer_Churn_Project/
 ```
 ---
 
-<h2><a class='anchor' id='work-flow'></a>🧠 Work Flow</h2>
+<h2><a class='anchor' id="work-flow"></a>🧠 Work Flow</h2>
 1. Data Loading
 2. Data Cleaning
 3. Handling Missing Values
@@ -79,7 +80,7 @@ Customer_Churn_Project/
 - F1 Score
 - ROC-AUC
 
-## 📸Screenshots
+<h2><a class="anchor" id="screen-shorts"></a>📸 Screenshots</h2>
 
 ### Data Preview
 ![Data Distribution](screenshots/dataset_preview.png)
